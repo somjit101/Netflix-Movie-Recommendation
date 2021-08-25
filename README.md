@@ -133,7 +133,7 @@ It can also seen as a Regression problem.
 * [Mean Absolute Percentage Error](https://en.wikipedia.org/wiki/Mean_absolute_percentage_error)
 * [Root Mean Square Error](https://en.wikipedia.org/wiki/Root-mean-square_deviation)
 
-#### Machine Learning Objectives/Constraints
+#### **Machine Learning Objectives/Constraints**
 
 1. Minimize RMSE.
 2. Try to provide some interpretability.
