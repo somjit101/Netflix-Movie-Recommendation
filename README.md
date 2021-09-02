@@ -137,3 +137,12 @@ It can also seen as a Regression problem.
 
 1. Minimize RMSE.
 2. Try to provide some interpretability.
+
+### ML Models Used : 
+
+* XGBoost Gradient-boosted Regression
+* **SVD Matrix Factorization** (Regularized)
+* **SVD++ Matrix Factorization** (with Implicit Feedback)
+* XGBoost Regression with SVD features
+
+The results of each models and their comparison on a small sample of the total dataset can be found on [this](small_sample_results.csv) file.
